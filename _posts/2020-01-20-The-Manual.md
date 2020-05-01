@@ -3,7 +3,11 @@ toc: true
 comments: true
 description: A philosopher's guide to life
 categories: [books, philosophy]
+layout: post
+categories: [markdown]
+
 ---
+
 # The Manual By Epictetus
 - Stoicism doesn’t mean repressing emotion and shunning pleasure, I learned, but—in essence—focusing on what is in our power and letting go of everything we can’t control.
 - When practical necessity demands that you desire or avoid something external—at work, for instance—act with steady deliberation, not hasty strain.
