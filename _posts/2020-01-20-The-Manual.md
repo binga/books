@@ -5,7 +5,6 @@ description: A philosopher's guide to life
 categories: [books, philosophy]
 layout: post
 categories: [markdown]
-
 ---
 
 # The Manual By Epictetus
