@@ -2,6 +2,7 @@
 toc: true
 comments: true
 categories: [books, spirituality]
+layout: post
 ---
 # Siddhartha By Herman Hesse
 - Then his father realized that even now Siddhartha no longer dwelt with him in his home, that he had already left him. The Father touched Siddhartha’s shoulder.

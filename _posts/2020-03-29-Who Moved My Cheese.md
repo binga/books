@@ -2,6 +2,7 @@
 toc: true
 comments: true
 categories: [books, psychology]
+layout: post
 ---
 # Who Moved My Cheese By Spencer Johnson
 - "We deserve this Cheese," Hem said. "We certainly had to work long and hard enough to find it." He picked up a nice fresh piece and ate it. Afterward, Hem fell asleep, as he often did. Every night the Littlepeople would waddle home, full of Cheese, and every morning they would confidently return for more. This went on for quite some time. After a while Hem's and Haw's confidence grew into the arrogance of success. Soon they became so comfortable they didn’t even notice what was happening.
