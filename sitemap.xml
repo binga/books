@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://binga.github.io/books/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
+<loc>https://binga.github.io/books/books/philosophy/2020/01/20/The-Manual.html</loc>
+<lastmod>2020-01-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://binga.github.io/books/jupyter/2020/02/20/test.html</loc>
-<lastmod>2020-02-20T00:00:00-06:00</lastmod>
+<loc>https://binga.github.io/books/books/spirituality/2020/01/31/Siddhartha.html</loc>
+<lastmod>2020-01-31T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://binga.github.io/books/books/psychology/2020/03/29/Who-Moved-My-Cheese.html</loc>
+<lastmod>2020-03-29T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://binga.github.io/books/books/time/art/2020/04/22/how-to-live-in-a-day.html</loc>
+<lastmod>2020-04-22T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://binga.github.io/books/about/</loc>
 </url>
 <url>
 <loc>https://binga.github.io/books/about/</loc>
