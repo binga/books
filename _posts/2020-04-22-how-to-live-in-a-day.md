@@ -2,6 +2,7 @@
 toc: true
 comments: true
 categories: [books, time, art]
+title: How To Live on 24 Hours a Day
 layout: post
 ---
 # How to Live on 24 Hours a Day By Arnold Bennett
